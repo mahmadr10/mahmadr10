@@ -1,5 +1,4 @@
-#  About Me:
-## About Me :<br><br>- 🔭 I’m currently working on **[Muhafiz](Link_to_Repo)** – A real-time threat intelligence map for Pakistan using NLP and live news feeds.<br>- 👯 I’m looking to collaborate on **Open-Source AI projects** that solve civic problems (Safety, Inflation, Energy).<br>- 🤝 I’m looking for help with **Advanced NLP for Roman Urdu** and optimizing real-time data pipelines.<br>- 🌱 I’m currently learning **Geospatial Analysis (GIS)** and System Architecture for scalable ML apps.<br>- 💬 Ask me about **Python, Web Scraping, Streamlit**, and building data-driven MVPs.<br>- ⚡ Fun fact **I built an automated "Sasta-Meter" to track inflation because I was tired of guessing grocery prices!**
+## 💬 Ask me about **Python, Web Scraping, Streamlit**, and building data-driven MVPs.<br>- 
 
 
 # 💻 Tech Stack:
