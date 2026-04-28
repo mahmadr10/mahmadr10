@@ -1,4 +1,4 @@
-## 💬 Ask me about **Python, Web Scraping, Streamlit**, and building data-driven MVPs.<br>- 
+## 💬 Ask me about **Python n Web Scraping**, and building data-driven MVPs.<br>- 
 
 
 # 💻 Tech Stack:
